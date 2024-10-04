@@ -1,0 +1,14 @@
+8
+House1 House2 10
+House1 House3 15
+House2 House4 12
+House2 House5 15
+House3 House6 10
+House4 House5 2
+House4 House6 1
+House5 House6 5
+House1 House7 8
+House7 House8 7
+House8 House6 4
+House3 House7 9
+House2 House8 11
